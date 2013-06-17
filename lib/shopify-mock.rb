@@ -56,7 +56,7 @@ module ShopifyAPI
       #   can_access_internet = Shopify::Mock.allow_internet
       # @api public
       def allow_internet?
-        @allow_internet || true
+        !!@allow_internet
       end
       
       # enables or disables access to the real Internet
