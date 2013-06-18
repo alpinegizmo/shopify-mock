@@ -21,6 +21,7 @@
     "source": null,
     "province": "CA",
     "myshopify_domain": "apple.myshopify.com",
-    "email": "steve@apple.com"
+    "email": "steve@apple.com",
+    "customer_email": "steve@apple.com"
   }
 }
